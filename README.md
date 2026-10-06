@@ -1,4 +1,4 @@
-# Nature 本机科研工作台
+# Nature 本机润色工作台
 
 安装程序，配置自己的模型和研究方向，再建立个人文献库。支持 Windows、macOS 原生运行；本地嵌入设备可选 CPU、CUDA 或 Apple MPS。LLM 推理使用你配置的远端服务。QQ 是可选入口，未配置 QQ 时网页照常运行。
 
